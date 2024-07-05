@@ -26,7 +26,7 @@ dayjs.extend(timezone);
 const proxyAgent = new HttpsProxyAgent('http://127.0.0.1:7890');
 
 // 创建 Bot 实例，传入代理设置
-const bot = new Bot('6874581207:AAF0RpWkGEQBEBGFDEFklhGpP1_wDX-9Oqo', {
+const bot = new Bot('xxxxxxxx', {
     client: {
         baseFetchConfig: {
             agent: proxyAgent,
