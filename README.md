@@ -32,7 +32,7 @@ To get started with this project, you will need:
 - Node.js 14 or higher
 - TypeScript 4.0 or higher
 - Required Node.js packages (listed in `package.json`)
-- An API key from a supported cryptocurrency exchange
+- An API key from rpc node
 
 ### Installation
 
