@@ -38,5 +38,6 @@ To get started with this project, you will need:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/yourprojectname.git
-   cd yourprojectname
+   git clone https://github.com/tianzeteam/pumpit.git
+   cd pumpit
+   yarn run dev or yarn run accountUpdate
