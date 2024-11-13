@@ -1,4 +1,4 @@
-# CopyTrade & PumpFun Quantitative Trading Strategies
+# PumpFun Quantitative Trading Strategies
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/tianzeteam/pumpit/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -15,7 +15,7 @@
 
 ## Introduction
 
-Welcome to the CopyTrade & PumpFun Quantitative Trading Strategies project! This TypeScript-based repository contains a collection of algorithms designed to explore and implement copy trading and pump-and-dump event detection strategies in the cryptocurrency market. The goal is to provide traders with tools to analyze market behavior, identify potential opportunities, and execute trades based on quantitative data.
+Welcome to the PumpFun Quantitative Trading Strategies project! This TypeScript-based repository contains a collection of algorithms designed to explore and implement pump-and-dump event detection strategies in the cryptocurrency market. The goal is to provide traders with tools to analyze market behavior, identify potential opportunities, and execute trades based on quantitative data.
 
 ## Features
 
