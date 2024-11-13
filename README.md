@@ -19,9 +19,10 @@ Welcome to the PumpFun Quantitative Trading Strategies project! This TypeScript-
 
 ## Features
 
-- **Copy Trading**: Algorithms to replicate the trading behavior of successful traders.
+
 - **Pump Event Detection**: Models to detect and predict pump events in the market.
 - **Backtesting Framework**: A robust framework to backtest strategies against historical data.
+- **Trade Strategies**: Unlock the power of precision—where data meets profit.
 - **Real-time Trading Interface**: Integration with major cryptocurrency exchanges for live trading.
 - **Documentation & Tutorials**: Comprehensive guides and tutorials to help users understand and use the strategies effectively.
 
