@@ -42,3 +42,6 @@ To get started with this project, you will need:
    git clone https://github.com/tianzeteam/pumpit.git
    cd pumpit
    yarn run dev or yarn run accountUpdate
+### Contact
+telegram :[![image](https://github.com/user-attachments/assets/cfa34db0-26ca-4241-af55-e1de3114e656)](https://t.me/pumpweb3)
+
